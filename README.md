@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Prateek Singh 👋</h1>
-<h3 align="center">Aspiring Data Scientist & Generative AI Enthusiast</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Generative+AI+Enthusiast;Data+Scientist+Aspiring;Python+%26+Cloud+Expert&font=Fira%20Code&center=true&pause=1000&color=0EA5E9&background=19172400" alt="Typing Animation" />
