@@ -1,26 +1,100 @@
-[![Banner Image](https://camo.githubusercontent.com/3167026abe932fe28cb61a7308549da706bc1a8ee81a3cc3169ea75991d2e3d5/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)](prateeksingh.github.io)
-<h1 align="center">Hi 👋, I'm Prateek Singh</h1>
-<h3 align="center">A Tech Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Vzbmt5Ynh0bzcyaWZmYzRrbGJhcGNjMG4xOTZuYWk2YzhpaTg0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif">
+<h1 align="center">Hi, I'm Prateek Singh 👋</h1>
+<h3 align="center">Aspiring Data Scientist & Generative AI Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ps-gitpro&label=Profile%20views&color=0e75b6&style=flat" alt="ps-gitpro" /> </p>
-
-- 🌱 I’m currently learning **Data Analysis**
-
-- 👨‍💻 All of my projects are available at [https://github.com/PS-gitpro](https://github.com/PS-gitpro)
-
-- 📫 How to reach me **contactprateeksingh01@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/singhprateek01](www.linkedin.com/in/singhprateek01)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/singhprateek01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhprateek01" height="30" width="40" /></a>
+<p align="right">
+  <img alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Vzbmt5Ynh0bzcyaWZmYzRrbGJhcGNjMG4xOTZuYWk2YzhpaTg0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZwggK04fdPVARRtH8w7G/giphy.gif">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ps-gitpro&label=Profile%20views&color=0e75b6&style=flat" alt="ps-gitpro" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ps-gitpro&show_icons=true&locale=en&layout=compact" alt="ps-gitpro" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ps-gitpro&show_
+## 🚀 About Me  
+
+- 🎯 **Aspiring Data Scientist & AI Intern** with a strong focus on Generative AI, LLMs, and end‑to‑end AI solutions. [file:1]  
+- 🧠 Passionate about building ethical, data‑driven systems from data analysis and modeling to deployment on cloud and REST APIs. [file:1]  
+- 🌩 Actively working with Google Cloud, Gemini APIs, and modern AI tooling to ship practical AI products. [file:2]  
+- 🔍 Open to roles in **AI Internships, Data Science, ML Engineering, and Full‑Stack / AI Integration**. [file:1]  
+
+---
+
+## 🧩 Featured Projects  
+
+- ⚡ **EV Digital Twin Platform – AI‑Powered Battery Management System**  
+  Real‑time EV battery digital twin with physics‑based I²R heating, thermal modeling, and AI‑driven temperature forecasting (≈92% accuracy), built for KPIT Sparkle 2025. [file:1][file:3]  
+  Tech: Streamlit, Python 3.11, Pandas, NumPy, Scikit‑learn, Plotly, Streamlit Cloud. [file:3]  
+
+- 🤖 **Multi‑Agent Research Assistant – Automated AI Research Workflows**  
+  Intelligent multi‑agent system with 5 specialized agents (Orchestrator, Search, Analysis, Memory, Gemini) handling parallel research sessions using asyncio and Google Gemini. [file:3]  
+
+- 🧭 **AI Aetherium – Personalized AI Workspace Nexus (XR)**  
+  Voice‑first AI workspace in VR/AR with custom wake‑word engine (“Aetherium”), spatial UI, and integrated productivity tools (browser, media, notes, calendar). [file:3]  
+
+- 📊 **Shubh Yatra – Risk Analysis for Indian Domestic Flights**  
+  Streamlit dashboard for airline risk factors and safety analytics using Python, pandas, and Plotly. [file:3]  
+
+- 📝 **myBlog – Production‑Ready Blog Platform**  
+  Django‑based blog with auth, rich text posts, media uploads, comments, and CI/CD deployment on Render with PostgreSQL. [file:3]  
+
+👉 Explore more projects here: **[GitHub Projects](https://github.com/PS-gitpro)**  
+
+---
+
+## 🏅 Certifications & Highlights  
+
+- 🧬 Databricks **Accredited Generative AI Fundamentals** – LLMs, prompt engineering, and GenAI foundations. [file:2]  
+- ☁️ **Google Cloud Innovator** & **Google Cloud GenAI Badges** – Intro to GenAI, LLMs, Vertex AI, Responsible AI, Prompt Design in Vertex AI. [file:2]  
+- 🧾 **Essentials of Prompt Engineering – AWS**. [file:2]  
+- 🤝 **Google Developer Program – Member Badge**. [file:2]  
+- 📊 **Data Analytics Essentials – Cisco**, **Business Intelligence with Advanced Excel & Power BI – ExcelR**. [file:2]  
+- 🧠 **Intro to AI Agents & Agentic AI**, **Intro to NLP for AI – 365 Data Science**. [file:2]  
+- 🐍, ☕, 🧮 Multiple HackerRank basics badges in Python, JavaScript, Java, SQL, and Problem Solving. [file:2]  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Core AI & Data:**  
+- Python (Pandas, NumPy, Scikit‑learn) [file:1][file:3]  
+- Generative AI, LLMs, Prompt Engineering, AI Agents [file:1][file:2]  
+- Data Analysis, Data Visualization (Plotly, Excel, Power BI, Tableau basics) [file:2][file:3]  
+
+**Web & Apps:**  
+- Django, Streamlit, REST APIs with Node.js & Express [file:2][file:3]  
+- HTML, CSS, JavaScript, Bootstrap [file:3][file:4]  
+
+**Databases:**  
+- SQL, MySQL, PostgreSQL, MongoDB [file:1][file:2][file:3]  
+
+**Cloud & DevTools:**  
+- Google Cloud, Vertex AI, Gemini APIs [file:1][file:2]  
+- Git, GitHub, GitHub Copilot [file:2][file:4]  
+
+---
+
+## 🌱 Current Focus  
+
+- Building **production‑ready AI agents** and research automation workflows with Gemini and multi‑agent architectures. [file:1][file:3]  
+- Deepening expertise in **Generative AI, Responsible AI, and cloud‑native AI deployments**. [file:1][file:2]  
+- Shipping more **data‑driven dashboards and full‑stack AI products**. [file:1][file:3]  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: **[linkedin.com/in/singhprateek01](https://www.linkedin.com/in/singhprateek01)** [file:1][file:4]  
+- 📧 Email: **contactprateeksingh01@gmail.com** [file:4]  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ps-gitpro&show_icons=true&locale=en&layout=compact" alt="ps-gitpro" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ps-gitpro&show_icons=true&locale=en" alt="ps-gitpro" />
+</p>
