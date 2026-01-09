@@ -32,14 +32,6 @@
 
 ---
 
-## 🧠 AI‑Themed Banner  
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235958431-685d5d47-398e-40b4-a5bb-1a46d7f7d7e5.gif" alt="AI Neural Network" width="600" />
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools  
 
 ### 🔹 Programming Languages  
