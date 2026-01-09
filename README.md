@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist & Generative AI Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Intern+%40+Vedaniti;Generative+AI+Enthusiast;Data+Scientist+Aspiring;Python+%26+Cloud+Expert&font=Fira%20Code&center=true&pause=1000&color=0EA5E9&background=19172400" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Generative+AI+Enthusiast;Data+Scientist+Aspiring;Python+%26+Cloud+Expert&font=Fira%20Code&center=true&pause=1000&color=0EA5E9&background=19172400" alt="Typing Animation" />
 </div>
 
 <p align="center">
@@ -15,9 +15,8 @@
 
 - 🎯 Aspiring Data Scientist & AI Intern focused on Generative AI, LLMs, and end‑to‑end AI solutions.  
 - 🧠 Passionate about building ethical, data‑driven systems from analysis and modeling to cloud deployment.  
-- ☁️ Actively working with Google Cloud, Vertex AI, Gemini APIs, and modern AI tooling.  
-- 🔍 Open to roles in AI Internships, Data Science, ML Engineering, and Full‑Stack / AI Integration.  
-
+- ☁️ Actively working with Google Cloud, Vertex AI, Gemini APIs, and modern AI tooling.
+  
 ---
 
 ## 🧩 Featured Projects  
@@ -59,7 +58,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib" width="50" height="50"/>
 </div>
 
 ### 🔹 Web Frameworks & Frontend  
