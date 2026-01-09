@@ -114,20 +114,3 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ps-gitpro&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="stats graph" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-gitpro&layout=compact&theme=radical&hide_border=true" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ps-gitpro&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300" alt="AI Animation" />
-</div>
