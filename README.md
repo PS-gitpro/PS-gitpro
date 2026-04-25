@@ -226,24 +226,6 @@ Every experiment. Every build. Every commit.
 
 <br/>
 
-<!-- ════════════════════ TROPHIES ════════════════════ -->
-
-### `> achievements --list`
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PS-gitpro&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <!-- ════════════════════ CERTIFICATIONS ════════════════════ -->
 
 ### `> certs --verified`
