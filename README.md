@@ -2,7 +2,7 @@
   ╭────────────────────────────────────────────────╮
   │  PRATEEK SINGH — GitHub Profile                │
   │  AI Engineer · Generative AI · Data Scientist  │
-  │  Top 0.1% README · v3.0                        │
+  │  Top 0.1% README · v3.1                        │
   ╰────────────────────────────────────────────────╯
 -->
 
@@ -118,21 +118,15 @@ Risk analysis across 100+ domestic routes — data storytelling that turns noise
 <tr><td colspan="2"><br/></td></tr>
 
 <tr>
-<td width="50%" valign="top">
-
-**📝 myBlog**  
-Production Django blog — not a tutorial clone.  
-Full auth, CI/CD pipeline, zero-downtime deploys. Clean engineering end to end.  
-`Django` · `PostgreSQL` · `GitHub Actions` · `Render`
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
 
 <br/>
 
 [![View All Projects →](https://img.shields.io/badge/All_Repositories_→-171515?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/PS-gitpro?tab=repositories)
 
 Every experiment. Every build. Every commit.
+
+<br/>
 
 </td>
 </tr>
@@ -259,7 +253,7 @@ Every experiment. Every build. Every commit.
 <div align="center">
 
 ```
-  What I'm shipping in 2025
+  What I'm shipping in 2026
   ─────────────────────────────────────────────────────────
 
   → Production AI agents    Gemini API · LangChain · Vertex AI
@@ -268,28 +262,6 @@ Every experiment. Every build. Every commit.
   → GenAI engineering       RAG · Fine-tuning · Embeddings
   → Responsible AI          Safety-first · Ethical by design
 ```
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ════════════════════ SNAKE ════════════════════ -->
-
-### `> contribution_graph --animate`
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PS-gitpro/PS-gitpro/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PS-gitpro/PS-gitpro/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/PS-gitpro/PS-gitpro/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
@@ -328,6 +300,6 @@ If you're building something ambitious with AI — I want to hear about it.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=fadeIn" />
 
-<sub>Built with intent · Shipped with purpose · © Prateek Singh 2025</sub>
+<sub>Built with intent · Shipped with purpose · © Prateek Singh 2026</sub>
 
 </div>
