@@ -234,7 +234,7 @@ Every experiment. Every build. Every commit.
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=PS-gitpro&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+<img src="https://github-profile-trophy.vercel.app/?username=PS-gitpro&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 
 </div>
 
