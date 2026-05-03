@@ -196,7 +196,7 @@ Every experiment. Every build. Every commit.
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ps-gitpro&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=00000000&rank_icon=percentile&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ps-gitpro&theme=transparent&hide_border=true&background=00000000&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ps-gitpro&theme=transparent&hide_border=true&background=00000000&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9" />
 
 </div>
 
