@@ -195,16 +195,25 @@ Every experiment. Every build. Every commit.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ps-gitpro&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=00000000&rank_icon=percentile&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=ps-gitpro&theme=transparent&hide_border=true&background=00000000&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ps-gitpro&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&rank_icon=percentile&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ps-gitpro&theme=tokyonight&hide_border=true&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
 
 </div>
 
 <div align="center">
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-gitpro&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=00000000&langs_count=8" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-gitpro&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&langs_count=8" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ps-gitpro&theme=github-compact&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=f1f5f9&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/PS-gitpro)
+
+</div>
+
 
 <br/>
 
