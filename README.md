@@ -2,7 +2,7 @@
   ╭────────────────────────────────────────────────╮
   │  PRATEEK SINGH — GitHub Profile                │
   │  AI Engineer · Generative AI · Data Scientist  │
-  │  Top 0.1% README · v3.1                        │
+  │  Top 0.1% README · v4.0                        │
   ╰────────────────────────────────────────────────╯
 -->
 
@@ -54,13 +54,46 @@ architecting agents that reason, pipelines that scale,
 and products that earn their place in the world.
 
 ```yaml
-location : India 🇮🇳
+location : Pune, India 🇮🇳
 focus    : Generative AI · LLM Agents · Cloud AI
 status   : Open to AI/ML roles & research collaborations
 building : AI systems that make a measurable dent
 ```
 
 <br clear="right"/>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ════════════════════ EXPERIENCE ════════════════════ -->
+
+### `> cat experience.log`
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏢 AI Intern — Vedaniti Technologies**
+`Jan 2026 – Mar 2026 · Pune`
+
+Developed hands-on AI/ML solutions including data preprocessing, analysis, and Python-based ML model implementation. Worked within real-time project workflows alongside the core engineering team — earning an internship completion certificate with satisfactory review.
+
+</td>
+<td width="50%" valign="top">
+
+**🤝 Tech Volunteer — MindyCore**
+`Nov 2025 – Present · Remote`
+
+Collaborating with engineers and leadership on the MindyCore prototype — improving community safety systems and product reliability for the MindyMinds Tech Care Circle.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -78,18 +111,20 @@ building : AI systems that make a measurable dent
 <tr>
 <td width="50%" valign="top">
 
-**⚡ EV Digital Twin**  
-AI battery simulation for electric vehicles.  
-Achieved **92% temperature prediction accuracy** on real EV telemetry — built for KPIT Sparkle 2025.  
-`Python` · `Scikit-learn` · `Streamlit` · `Plotly`
+**⚡ EV Digital Twin**
+`Oct 2025 – Present`
+AI battery simulation for electric vehicles.
+Achieved **92% temperature prediction accuracy** & **90% reduction in physical testing cost** on real EV telemetry — built for KPIT Sparkle 2025.
+`Python` · `Scikit-learn` · `Streamlit` · `Plotly` · `NumPy`
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 Multi-Agent Research Assistant**  
-5-agent autonomous system with parallel workflows.  
-Agents specialize, collaborate, and synthesize — delivering hours of research in seconds.  
-`Python asyncio` · `Google Gemini` · `LLM Agents`
+**🤖 Multi-Agent Research Assistant**
+`Nov 2025`
+5-agent autonomous system (Orchestrator, Search, Analysis, Memory, LLM) with parallel workflows.
+Supports **3 simultaneous research sessions** — delivering hours of research in seconds.
+`Python asyncio` · `Google Gemini API` · `LLM Agents`
 
 </td>
 </tr>
@@ -99,18 +134,20 @@ Agents specialize, collaborate, and synthesize — delivering hours of research 
 <tr>
 <td width="50%" valign="top">
 
-**🥽 AI Aetherium XR**  
-Voice-first AI workspace inside VR/AR.  
-A spatial-computing interface where you *talk to AI in three dimensions* — built for what comes after the screen.  
-`Unity` · `C#` · `Voice AI` · `XR`
+**🥽 Aetherium — AI Workspace in XR**
+`Sep 2025 – Oct 2025`
+Voice-first AI workspace inside VR/AR.
+Custom wake-word detection + natural language commands for hands-free task execution in immersive 3D space.
+`Unity` · `C#` · `NLP` · `Voice Recognition` · `XR Toolkit`
 
 </td>
 <td width="50%" valign="top">
 
-**✈️ Shubh Yatra**  
-Indian aviation safety intelligence dashboard.  
-Risk analysis across 100+ domestic routes — data storytelling that turns noise into signal.  
-`Streamlit` · `Pandas` · `Plotly`
+**✈️ Shubh Yatra**
+`Jul 2025 – Aug 2025`
+Indian aviation safety intelligence dashboard.
+Automated DGCA PDF ingestion, dynamic risk scoring, and exportable stakeholder reports across 100+ domestic routes.
+`Streamlit` · `Pandas` · `NumPy` · `Plotly`
 
 </td>
 </tr>
@@ -118,7 +155,16 @@ Risk analysis across 100+ domestic routes — data storytelling that turns noise
 <tr><td colspan="2"><br/></td></tr>
 
 <tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
+
+**🎓 myCESA — College Event Platform**
+`Feb 2024 – Mar 2024`
+Responsive web portal for the Computer Engineering Student Association — managing event listings and registrations.
+Fully deployed via GitHub Pages.
+`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub Pages`
+
+</td>
+<td width="50%" valign="top">
 
 <br/>
 
@@ -150,8 +196,8 @@ Every experiment. Every build. Every commit.
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
 
 <br/>
 
@@ -175,9 +221,9 @@ Every experiment. Every build. Every commit.
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 
 </div>
 
@@ -214,15 +260,6 @@ Every experiment. Every build. Every commit.
 
 </div>
 
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ps-gitpro&theme=github-compact&bg_color=00000000&color=38bdf8&line=0ea5e9&point=f1f5f9&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/PS-gitpro)
-
-</div>
-
 <br/>
 
 ---
@@ -237,13 +274,25 @@ Every experiment. Every build. Every commit.
 
 <div align="center">
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Innovator_Champion-1A73E8?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0d1a2e)
+![Vertex AI](https://img.shields.io/badge/Google_Cloud-Prompt_Design_in_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0d1a2e)
+&nbsp;
+![Google GenAI](https://img.shields.io/badge/Google_Cloud-Generative_AI+LLMs+Responsible_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0d1a2e)
 &nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-GenAI_Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white&labelColor=1a0800)
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-Prompt_Engineering_Essentials-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1200)
 &nbsp;
-![AWS](https://img.shields.io/badge/AWS-Prompt_Engineering-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1200)
+![Microsoft](https://img.shields.io/badge/Microsoft-Generative+Responsible_AI-00BCF2?style=flat-square&logo=microsoft&logoColor=white&labelColor=001520)
 &nbsp;
-![Microsoft](https://img.shields.io/badge/Microsoft-Responsible_AI-00BCF2?style=flat-square&logo=microsoft&logoColor=white&labelColor=001520)
+![Cisco](https://img.shields.io/badge/Cisco-Data_Analytics_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=001a2e)
+
+<br/>
+
+![Microsoft Git](https://img.shields.io/badge/Microsoft-Git+GitHub+Copilot-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)
+&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB_University-Intro_to_MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=001a0d)
 
 </div>
 
